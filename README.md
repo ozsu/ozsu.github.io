@@ -4,7 +4,7 @@ This is my personal web site where I will mostly have stuff about my pen collect
 
 To access my official web site at University of Waterloo, please [click here](https://www.cs.uwaterloo.ca/~tozsu").
 
-* [Internet Pen Resources](https://cs.uwaterloo.ca/~tozsu/)
+* [Internet Pen Resources](https://github.com/ozsu/ozsu.github.io/blob/main/PenListing/index.html)
 
 * [My Pen Collection](https://cs.uwaterloo.ca/~tozsu/)
 
